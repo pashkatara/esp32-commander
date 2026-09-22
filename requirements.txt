@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+pyserial>=3.5
+esptool>=5.4.0
+Pillow>=10.0.0
